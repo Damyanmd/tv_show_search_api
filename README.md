@@ -16,9 +16,9 @@
 
 ### Built With
 
-- [HTML]
-- [JS]
-- [AXIOS]
+- HTML
+- JS
+- AXIOS
 
 ## Features
 
